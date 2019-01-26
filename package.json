@@ -1,0 +1,24 @@
+{
+  "name": "typescript-exercise",
+  "version": "1.0.0",
+  "description": "TypeScript 练习",
+  "main": "index.js",
+  "scripts": {
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s -r 0 && git add CHANGELOG.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aiiua/typescript-exercise.git"
+  },
+  "author": "@aiiua",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aiiua/typescript-exercise/issues"
+  },
+  "homepage": "https://github.com/aiiua/typescript-exercise#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^7.3.2",
+    "husky": "^1.3.1"
+  }
+}
